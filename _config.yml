@@ -79,3 +79,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 url: ''
+domain: 'https://curious-squid-ac929.netlify.app'
